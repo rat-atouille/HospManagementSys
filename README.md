@@ -1,0 +1,2 @@
+# HospManagementSys
+To practice SQL
